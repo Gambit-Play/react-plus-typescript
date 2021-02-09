@@ -1,3 +1,1 @@
-# react-plus-typescript
-
-Typescript Tutorial
+# Typescript Tutorial
